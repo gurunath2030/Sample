@@ -1,1 +1,1 @@
-app initialization
+app initializations
